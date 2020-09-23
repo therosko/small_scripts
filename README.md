@@ -1,2 +1,4 @@
 # small_scripts
-A lot of small code snippets and scripts that you may find useful
+A continuously growing collection of small scripts and code snippets that might make someone's life easier ;)
+
+Find more details in the individual folders. Inputs and ideas are very welcome! 
